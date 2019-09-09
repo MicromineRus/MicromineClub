@@ -1,1 +1,1 @@
-"# MicromineClub" 
+Приложение Клуб Micromine
